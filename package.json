@@ -1,5 +1,13 @@
 {
   "name": "create-next-example-app",
+  "version": "1.0.0",
+  "description": "A server-side rendering todo list",
+  "author": {
+    "name": "siwen ren",
+    "email": "rsw_mmo@163.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
